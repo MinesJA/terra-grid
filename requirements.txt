@@ -1,0 +1,13 @@
+nose
+sphinx
+falcon
+gunicorn
+uvicorn
+requests
+pytest
+pytest-asyncio
+pytest-mock
+pep8
+termcolor
+mariadb
+schedule
